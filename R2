@@ -2,3 +2,4 @@ git branch
 git branch -a
 git branch -m Main
 git pull
+git push
